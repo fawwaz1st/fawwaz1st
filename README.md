@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">Haiii 👋! My name is Fawwaz</h1>
-<p align="center"><b>Game Developer • Palembang</b></p>
-<p align="center"><i>Baru memasuki dunia game dev saat SMK — siap eksplorasi lebih jauh!</i></p>
+<p align="center"><b>Orang awam • Palembang</b></p>
+<p align="center"><i>Baru memasuki dunia AI dan game dev saat SMK — siap eksplorasi lebih jauh!</i></p>
 <p align="center"><b>Founder (calon) RezX — <i>Redefining Everything With Zeal and eXcellence</i></b></p>
 
 ---
@@ -33,8 +33,8 @@
 
 <!-- Bio / Fun Fact -->
 <p align="center">
-  🎮 Mulai tertarik ngoding dan bikin game saat SMK<br>
-  🕹️ Suka eksplorasi engine: Unity, Godot, Unreal, Blender<br>
+  🎮 Mulai tertarik ngoding, AI dan bikin game saat SMK<br>
+  🕹️ Suka eksplorasi engine: Ollama, LM Studio, Unity, Godot, Unreal, Blender<br>
   🌱 Fokus belajar dan eksperimen project baru
 </p>
 
