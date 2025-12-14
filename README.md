@@ -34,7 +34,7 @@
 <!-- Bio / Fun Fact -->
 <p align="center">
   🎮 Mulai tertarik ngoding, AI dan bikin game saat SMK<br>
-  🕹️ Suka eksplorasi engine: Ollama, LM Studio, Unity, Godot, Unreal, Blender<br>
+  🕹️ Suka eksplorasi: Ollama, LM Studio, Unity, Godot, Unreal, Blender<br>
   🌱 Fokus belajar dan eksperimen project baru
 </p>
 
@@ -43,6 +43,10 @@
 <!-- Tech Stack: Logo Berderet -->
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 <p align="center">
+  <img src="https://lmstudio.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flmstudio-app-logo.11b4d746.webp&w=48&q=75" height="40" alt="lmstudio" />
+  <img width="12" />
+  <img src="https://ollama.com/public/ollama.png" height="40" alt="ollama" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
