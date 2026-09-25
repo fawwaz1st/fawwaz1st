@@ -52,23 +52,23 @@ Tiga project yang paling mewakili:
     <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cphp%2Claravel%2Creact%2Cnext%2Ctailwind%2Csupabase%2Cmysql%2Cnodejs%2Cflutter%2Cpython%2Cunity%2Cgodot%2Cunreal%2Cblender%2Cvscode%2Cgit%2Cvercel&perline=11" alt="HTML, CSS, JavaScript, TypeScript, PHP, Laravel, React, Next.js, Tailwind, Supabase, MySQL, Node.js, Flutter, Python, Unity, Godot, Unreal Engine, Blender, VS Code, Git, Vercel" />
   </picture>
 
-  <img width="40" src="https://api.iconify.design/fa7-brands/openai.svg?color=%230F766E&width=40" alt="ChatGPT" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/claude/0F766E" alt="Claude" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/googlegemini/0F766E" alt="Google Gemini" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/deepseek/0F766E" alt="DeepSeek" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/qwen/0F766E" alt="Qwen" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/kimi/0F766E" alt="Kimi" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/minimax/0F766E" alt="MiniMax" />&nbsp;
-  <img width="40" src="https://api.iconify.design/mingcute/grok-fill.svg?color=%230F766E&width=40" alt="Grok" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/mistralai/0F766E" alt="Mistral AI" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/perplexity/0F766E" alt="Perplexity" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/metaai/0F766E" alt="Meta AI" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/claudecode/0F766E" alt="Claude Code" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/ollama/0F766E" alt="Ollama" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/lmstudio/0F766E" alt="LM Studio" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/huggingface/0F766E" alt="Hugging Face" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/githubcopilot/0F766E" alt="GitHub Copilot" />&nbsp;
-  <img width="40" src="https://cdn.simpleicons.org/cursor/0F766E" alt="Cursor" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/fa7-brands/openai.svg?color=%23FFFFFF&width=40" /><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/fa7-brands/openai.svg?color=%23000000&width=40" /><img width="40" src="https://api.iconify.design/fa7-brands/openai.svg?color=%23000000&width=40" alt="ChatGPT" /></picture>&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/claude" alt="Claude" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/googlegemini" alt="Google Gemini" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/deepseek" alt="DeepSeek" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/qwen" alt="Qwen" />&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/kimi/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/kimi/000000" /><img width="40" src="https://cdn.simpleicons.org/kimi/000000" alt="Kimi" /></picture>&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/minimax" alt="MiniMax" />&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mingcute/grok-fill.svg?color=%23FFFFFF&width=40" /><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mingcute/grok-fill.svg?color=%23000000&width=40" /><img width="40" src="https://api.iconify.design/mingcute/grok-fill.svg?color=%23000000&width=40" alt="Grok" /></picture>&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/mistralai" alt="Mistral AI" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/perplexity" alt="Perplexity" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/metaai" alt="Meta AI" /><br />
+  <img width="40" src="https://cdn.simpleicons.org/claudecode" alt="Claude Code" />&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ollama/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/ollama/000000" /><img width="40" src="https://cdn.simpleicons.org/ollama/000000" alt="Ollama" /></picture>&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lmstudio/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lmstudio/000000" /><img width="40" src="https://cdn.simpleicons.org/lmstudio/000000" alt="LM Studio" /></picture>&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" />&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubcopilot/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/githubcopilot/000000" /><img width="40" src="https://cdn.simpleicons.org/githubcopilot/000000" alt="GitHub Copilot" /></picture>&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/cursor/000000" /><img width="40" src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" /></picture>
 </div>
 
 ## Activity
