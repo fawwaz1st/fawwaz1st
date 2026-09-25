@@ -43,28 +43,32 @@ Tiga project yang paling mewakili:
 
 </details>
 
-## Stack
+## Vibecoding
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cphp%2Claravel%2Creact%2Cnext%2Ctailwind%2Csupabase%2Cmysql%2Cnodejs%2Cflutter%2Cpython%2Cunity%2Cgodot%2Cunreal%2Cblender%2Cvscode%2Cgit%2Cvercel&perline=11&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cphp%2Claravel%2Creact%2Cnext%2Ctailwind%2Csupabase%2Cmysql%2Cnodejs%2Cflutter%2Cpython%2Cunity%2Cgodot%2Cunreal%2Cblender%2Cvscode%2Cgit%2Cvercel&perline=11&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cphp%2Claravel%2Creact%2Cnext%2Ctailwind%2Csupabase%2Cmysql%2Cnodejs%2Cflutter%2Cpython%2Cunity%2Cgodot%2Cunreal%2Cblender%2Cvscode%2Cgit%2Cvercel&perline=11" alt="HTML, CSS, JavaScript, TypeScript, PHP, Laravel, React, Next.js, Tailwind, Supabase, MySQL, Node.js, Flutter, Python, Unity, Godot, Unreal Engine, Blender, VS Code, Git, Vercel" />
+  </picture>
 
-**Web & app**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cphp%2Claravel%2Creact%2Cnext%2Ctailwind%2Csupabase%2Cmysql%2Cnodejs%2Cflutter&perline=7&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cphp%2Claravel%2Creact%2Cnext%2Ctailwind%2Csupabase%2Cmysql%2Cnodejs%2Cflutter&perline=7&theme=light" />
-  <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cphp%2Claravel%2Creact%2Cnext%2Ctailwind%2Csupabase%2Cmysql%2Cnodejs%2Cflutter&perline=7" alt="HTML, CSS, JavaScript, TypeScript, PHP, Laravel, React, Next.js, Tailwind, Supabase, MySQL, Node.js, Flutter" />
-</picture>
-
-**AI lokal, game & alat**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cunity%2Cgodot%2Cunreal%2Cblender%2Cvscode%2Cgit%2Cvercel&perline=8&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cunity%2Cgodot%2Cunreal%2Cblender%2Cvscode%2Cgit%2Cvercel&perline=8&theme=light" />
-  <img src="https://skillicons.dev/icons?i=python%2Cunity%2Cgodot%2Cunreal%2Cblender%2Cvscode%2Cgit%2Cvercel&perline=8" alt="Python, Unity, Godot, Unreal Engine, Blender, VS Code, Git, Vercel" />
-</picture>
-
-AI lokal: Ollama, LM Studio.
-
+  <img width="40" src="https://api.iconify.design/fa7-brands/openai.svg?color=%230F766E&width=40" alt="ChatGPT" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/claude/0F766E" alt="Claude" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/googlegemini/0F766E" alt="Google Gemini" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/deepseek/0F766E" alt="DeepSeek" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/qwen/0F766E" alt="Qwen" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/kimi/0F766E" alt="Kimi" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/minimax/0F766E" alt="MiniMax" />&nbsp;
+  <img width="40" src="https://api.iconify.design/mingcute/grok-fill.svg?color=%230F766E&width=40" alt="Grok" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/mistralai/0F766E" alt="Mistral AI" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/perplexity/0F766E" alt="Perplexity" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/metaai/0F766E" alt="Meta AI" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/claudecode/0F766E" alt="Claude Code" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/ollama/0F766E" alt="Ollama" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/lmstudio/0F766E" alt="LM Studio" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/huggingface/0F766E" alt="Hugging Face" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/githubcopilot/0F766E" alt="GitHub Copilot" />&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/cursor/0F766E" alt="Cursor" />
 </div>
 
 ## Activity
