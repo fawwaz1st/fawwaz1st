@@ -50,17 +50,17 @@ Tiga project yang paling mewakili:
 **Web & app**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,next,tailwind,supabase,mysql,nodejs,flutter&perline=7&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,next,tailwind,supabase,mysql,nodejs,flutter&perline=7&theme=light" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,next,tailwind,supabase,mysql,nodejs,flutter&perline=7" alt="HTML, CSS, JavaScript, TypeScript, PHP, Laravel, React, Next.js, Tailwind, Supabase, MySQL, Node.js, Flutter" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cphp%2Claravel%2Creact%2Cnext%2Ctailwind%2Csupabase%2Cmysql%2Cnodejs%2Cflutter&perline=7&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cphp%2Claravel%2Creact%2Cnext%2Ctailwind%2Csupabase%2Cmysql%2Cnodejs%2Cflutter&perline=7&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Cphp%2Claravel%2Creact%2Cnext%2Ctailwind%2Csupabase%2Cmysql%2Cnodejs%2Cflutter&perline=7" alt="HTML, CSS, JavaScript, TypeScript, PHP, Laravel, React, Next.js, Tailwind, Supabase, MySQL, Node.js, Flutter" />
 </picture>
 
 **AI lokal, game & alat**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,unity,godot,unreal,blender,vscode,git,vercel&perline=8&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,unity,godot,unreal,blender,vscode,git,vercel&perline=8&theme=light" />
-  <img src="https://skillicons.dev/icons?i=python,unity,godot,unreal,blender,vscode,git,vercel&perline=8" alt="Python, Unity, Godot, Unreal Engine, Blender, VS Code, Git, Vercel" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cunity%2Cgodot%2Cunreal%2Cblender%2Cvscode%2Cgit%2Cvercel&perline=8&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cunity%2Cgodot%2Cunreal%2Cblender%2Cvscode%2Cgit%2Cvercel&perline=8&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python%2Cunity%2Cgodot%2Cunreal%2Cblender%2Cvscode%2Cgit%2Cvercel&perline=8" alt="Python, Unity, Godot, Unreal Engine, Blender, VS Code, Git, Vercel" />
 </picture>
 
 AI lokal: Ollama, LM Studio.
